@@ -1,0 +1,1 @@
+# nerdFonts_termux
