@@ -2,8 +2,7 @@
 ├── 0xProto
 │   ├── 0xProtoNerdFont-Regular.ttf
 │   ├── 0xProtoNerdFontMono-Regular.ttf
-│   ├── 0xProtoNerdFontPropo-Regular.ttf
-│   └── LICENSE
+│   └── 0xProtoNerdFontPropo-Regular.ttf
 ├── 3270
 │   ├── 3270NerdFont-Condensed.ttf
 │   ├── 3270NerdFont-Regular.ttf
@@ -13,18 +12,14 @@
 │   ├── 3270NerdFontMono-SemiCondensed.ttf
 │   ├── 3270NerdFontPropo-Condensed.ttf
 │   ├── 3270NerdFontPropo-Regular.ttf
-│   ├── 3270NerdFontPropo-SemiCondensed.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── 3270NerdFontPropo-SemiCondensed.ttf
 ├── Agave
 │   ├── AgaveNerdFont-Bold.ttf
 │   ├── AgaveNerdFont-Regular.ttf
 │   ├── AgaveNerdFontMono-Bold.ttf
 │   ├── AgaveNerdFontMono-Regular.ttf
 │   ├── AgaveNerdFontPropo-Bold.ttf
-│   ├── AgaveNerdFontPropo-Regular.ttf
-│   ├── LICENSE
-│   └── README.md
+│   └── AgaveNerdFontPropo-Regular.ttf
 ├── AnonymousPro
 │   ├── AnonymiceProNerdFont-Bold.ttf
 │   ├── AnonymiceProNerdFont-BoldItalic.ttf
@@ -37,9 +32,7 @@
 │   ├── AnonymiceProNerdFontPropo-Bold.ttf
 │   ├── AnonymiceProNerdFontPropo-BoldItalic.ttf
 │   ├── AnonymiceProNerdFontPropo-Italic.ttf
-│   ├── AnonymiceProNerdFontPropo-Regular.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── AnonymiceProNerdFontPropo-Regular.ttf
 ├── Arimo
 │   ├── ArimoNerdFont-Bold.ttf
 │   ├── ArimoNerdFont-BoldItalic.ttf
@@ -48,26 +41,19 @@
 │   ├── ArimoNerdFontPropo-Bold.ttf
 │   ├── ArimoNerdFontPropo-BoldItalic.ttf
 │   ├── ArimoNerdFontPropo-Italic.ttf
-│   ├── ArimoNerdFontPropo-Regular.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── ArimoNerdFontPropo-Regular.ttf
 ├── AurulentSansMono
 │   ├── AurulentSansMNerdFont-Regular.otf
 │   ├── AurulentSansMNerdFontMono-Regular.otf
-│   ├── AurulentSansMNerdFontPropo-Regular.otf
-│   ├── README.md
-│   └── SIL Open Font License.txt
+│   └── AurulentSansMNerdFontPropo-Regular.otf
 ├── BigBlueTerminal
 │   ├── BigBlueTerm437NerdFont-Regular.ttf
 │   ├── BigBlueTerm437NerdFontMono-Regular.ttf
 │   ├── BigBlueTerm437NerdFontPropo-Regular.ttf
 │   ├── BigBlueTermPlusNerdFont-Regular.ttf
 │   ├── BigBlueTermPlusNerdFontMono-Regular.ttf
-│   ├── BigBlueTermPlusNerdFontPropo-Regular.ttf
-│   ├── LICENSE.TXT
-│   └── README.md
+│   └── BigBlueTermPlusNerdFontPropo-Regular.ttf
 ├── BitstreamVeraSansMono
-│   ├── Bitstream Vera License.txt
 │   ├── BitstromWeraNerdFont-Bold.ttf
 │   ├── BitstromWeraNerdFont-BoldOblique.ttf
 │   ├── BitstromWeraNerdFont-Oblique.ttf
@@ -79,8 +65,7 @@
 │   ├── BitstromWeraNerdFontPropo-Bold.ttf
 │   ├── BitstromWeraNerdFontPropo-BoldOblique.ttf
 │   ├── BitstromWeraNerdFontPropo-Oblique.ttf
-│   ├── BitstromWeraNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── BitstromWeraNerdFontPropo-Regular.ttf
 ├── CascadiaMono
 │   ├── CaskaydiaMonoNerdFont-Bold.ttf
 │   ├── CaskaydiaMonoNerdFont-BoldItalic.ttf
@@ -117,9 +102,7 @@
 │   ├── CaskaydiaMonoNerdFontPropo-SemiBold.ttf
 │   ├── CaskaydiaMonoNerdFontPropo-SemiBoldItalic.ttf
 │   ├── CaskaydiaMonoNerdFontPropo-SemiLight.ttf
-│   ├── CaskaydiaMonoNerdFontPropo-SemiLightItalic.ttf
-│   ├── LICENSE
-│   └── README.md
+│   └── CaskaydiaMonoNerdFontPropo-SemiLightItalic.ttf
 ├── CodeNewRoman
 │   ├── CodeNewRomanNerdFont-Bold.otf
 │   ├── CodeNewRomanNerdFont-Italic.otf
@@ -129,9 +112,7 @@
 │   ├── CodeNewRomanNerdFontMono-Regular.otf
 │   ├── CodeNewRomanNerdFontPropo-Bold.otf
 │   ├── CodeNewRomanNerdFontPropo-Italic.otf
-│   ├── CodeNewRomanNerdFontPropo-Regular.otf
-│   ├── README.md
-│   └── license.txt
+│   └── CodeNewRomanNerdFontPropo-Regular.otf
 ├── CommitMono
 │   ├── CommitMonoNerdFont-Bold.otf
 │   ├── CommitMonoNerdFont-BoldItalic.otf
@@ -144,9 +125,7 @@
 │   ├── CommitMonoNerdFontPropo-Bold.otf
 │   ├── CommitMonoNerdFontPropo-BoldItalic.otf
 │   ├── CommitMonoNerdFontPropo-Italic.otf
-│   ├── CommitMonoNerdFontPropo-Regular.otf
-│   ├── LICENSE
-│   └── README.md
+│   └── CommitMonoNerdFontPropo-Regular.otf
 ├── Cousine
 │   ├── CousineNerdFont-Bold.ttf
 │   ├── CousineNerdFont-BoldItalic.ttf
@@ -159,24 +138,18 @@
 │   ├── CousineNerdFontPropo-Bold.ttf
 │   ├── CousineNerdFontPropo-BoldItalic.ttf
 │   ├── CousineNerdFontPropo-Italic.ttf
-│   ├── CousineNerdFontPropo-Regular.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── CousineNerdFontPropo-Regular.ttf
 ├── D2Coding
 │   ├── D2CodingLigatureNerdFont-Bold.ttf
 │   ├── D2CodingLigatureNerdFont-Regular.ttf
 │   ├── D2CodingLigatureNerdFontMono-Bold.ttf
 │   ├── D2CodingLigatureNerdFontMono-Regular.ttf
 │   ├── D2CodingLigatureNerdFontPropo-Bold.ttf
-│   ├── D2CodingLigatureNerdFontPropo-Regular.ttf
-│   ├── LICENSE
-│   └── README.md
+│   └── D2CodingLigatureNerdFontPropo-Regular.ttf
 ├── DaddyTimeMono
 │   ├── DaddyTimeMonoNerdFont-Regular.ttf
 │   ├── DaddyTimeMonoNerdFontMono-Regular.ttf
-│   ├── DaddyTimeMonoNerdFontPropo-Regular.ttf
-│   ├── LICENSE.md
-│   └── README.md
+│   └── DaddyTimeMonoNerdFontPropo-Regular.ttf
 ├── DejaVuSansMono
 │   ├── DejaVuSansMNerdFont-Bold.ttf
 │   ├── DejaVuSansMNerdFont-BoldOblique.ttf
@@ -189,15 +162,11 @@
 │   ├── DejaVuSansMNerdFontPropo-Bold.ttf
 │   ├── DejaVuSansMNerdFontPropo-BoldOblique.ttf
 │   ├── DejaVuSansMNerdFontPropo-Oblique.ttf
-│   ├── DejaVuSansMNerdFontPropo-Regular.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── DejaVuSansMNerdFontPropo-Regular.ttf
 ├── DroidSansMono
 │   ├── DroidSansMNerdFont-Regular.otf
 │   ├── DroidSansMNerdFontMono-Regular.otf
-│   ├── DroidSansMNerdFontPropo-Regular.otf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── DroidSansMNerdFontPropo-Regular.otf
 ├── EnvyCodeR
 │   ├── EnvyCodeRNerdFont-Bold.ttf
 │   ├── EnvyCodeRNerdFont-Italic.ttf
@@ -207,9 +176,7 @@
 │   ├── EnvyCodeRNerdFontMono-Regular.ttf
 │   ├── EnvyCodeRNerdFontPropo-Bold.ttf
 │   ├── EnvyCodeRNerdFontPropo-Italic.ttf
-│   ├── EnvyCodeRNerdFontPropo-Regular.ttf
-│   ├── LICENCE.md
-│   └── README.md
+│   └── EnvyCodeRNerdFontPropo-Regular.ttf
 ├── FantasqueSansMono
 │   ├── FantasqueSansMNerdFont-Bold.ttf
 │   ├── FantasqueSansMNerdFont-BoldItalic.ttf
@@ -222,9 +189,7 @@
 │   ├── FantasqueSansMNerdFontPropo-Bold.ttf
 │   ├── FantasqueSansMNerdFontPropo-BoldItalic.ttf
 │   ├── FantasqueSansMNerdFontPropo-Italic.ttf
-│   ├── FantasqueSansMNerdFontPropo-Regular.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── FantasqueSansMNerdFontPropo-Regular.ttf
 ├── FiraCode
 │   ├── FiraCodeNerdFont-Bold.ttf
 │   ├── FiraCodeNerdFont-Light.ttf
@@ -243,9 +208,7 @@
 │   ├── FiraCodeNerdFontPropo-Medium.ttf
 │   ├── FiraCodeNerdFontPropo-Regular.ttf
 │   ├── FiraCodeNerdFontPropo-Retina.ttf
-│   ├── FiraCodeNerdFontPropo-SemiBold.ttf
-│   ├── LICENSE
-│   └── README.md
+│   └── FiraCodeNerdFontPropo-SemiBold.ttf
 ├── FiraMono
 │   ├── FiraMonoNerdFont-Bold.otf
 │   ├── FiraMonoNerdFont-Medium.otf
@@ -255,9 +218,7 @@
 │   ├── FiraMonoNerdFontMono-Regular.otf
 │   ├── FiraMonoNerdFontPropo-Bold.otf
 │   ├── FiraMonoNerdFontPropo-Medium.otf
-│   ├── FiraMonoNerdFontPropo-Regular.otf
-│   ├── LICENSE
-│   └── README.md
+│   └── FiraMonoNerdFontPropo-Regular.otf
 ├── GeistMono
 │   ├── GeistMonoNerdFont-Black.otf
 │   ├── GeistMonoNerdFont-Bold.otf
@@ -285,9 +246,7 @@
 │   ├── GeistMonoNerdFontPropo-SemiBold.otf
 │   ├── GeistMonoNerdFontPropo-Thin.otf
 │   ├── GeistMonoNerdFontPropo-UltraBlack.otf
-│   ├── GeistMonoNerdFontPropo-UltraLight.otf
-│   ├── LICENSE
-│   └── README.md
+│   └── GeistMonoNerdFontPropo-UltraLight.otf
 ├── Gohu
 │   ├── COPYING-LICENSE
 │   ├── GohuFont11NerdFont-Regular.ttf
@@ -301,8 +260,7 @@
 │   ├── GohuFontuni11NerdFontPropo-Regular.ttf
 │   ├── GohuFontuni14NerdFont-Regular.ttf
 │   ├── GohuFontuni14NerdFontMono-Regular.ttf
-│   ├── GohuFontuni14NerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── GohuFontuni14NerdFontPropo-Regular.ttf
 ├── Hasklig
 │   ├── HasklugNerdFont-Black.otf
 │   ├── HasklugNerdFont-BlackItalic.otf
@@ -345,9 +303,7 @@
 │   ├── HasklugNerdFontPropo-MediumItalic.otf
 │   ├── HasklugNerdFontPropo-Regular.otf
 │   ├── HasklugNerdFontPropo-SemiBold.otf
-│   ├── HasklugNerdFontPropo-SemiBoldItalic.otf
-│   ├── LICENSE.md
-│   └── README.md
+│   └── HasklugNerdFontPropo-SemiBoldItalic.otf
 ├── Hermit
 │   ├── HurmitNerdFont-Bold.otf
 │   ├── HurmitNerdFont-BoldItalic.otf
@@ -366,9 +322,7 @@
 │   ├── HurmitNerdFontPropo-Italic.otf
 │   ├── HurmitNerdFontPropo-Light.otf
 │   ├── HurmitNerdFontPropo-LightItalic.otf
-│   ├── HurmitNerdFontPropo-Regular.otf
-│   ├── LICENSE
-│   └── README.md
+│   └── HurmitNerdFontPropo-Regular.otf
 ├── IBMPlexMono
 │   ├── BlexMonoNerdFont-Bold.ttf
 │   ├── BlexMonoNerdFont-BoldItalic.ttf
@@ -417,27 +371,21 @@
 │   ├── BlexMonoNerdFontPropo-Text.ttf
 │   ├── BlexMonoNerdFontPropo-TextItalic.ttf
 │   ├── BlexMonoNerdFontPropo-Thin.ttf
-│   ├── BlexMonoNerdFontPropo-ThinItalic.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── BlexMonoNerdFontPropo-ThinItalic.ttf
 ├── Inconsolata
 │   ├── InconsolataNerdFont-Bold.ttf
 │   ├── InconsolataNerdFont-Regular.ttf
 │   ├── InconsolataNerdFontMono-Bold.ttf
 │   ├── InconsolataNerdFontMono-Regular.ttf
 │   ├── InconsolataNerdFontPropo-Bold.ttf
-│   ├── InconsolataNerdFontPropo-Regular.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── InconsolataNerdFontPropo-Regular.ttf
 ├── InconsolataGo
 │   ├── InconsolataGoNerdFont-Bold.ttf
 │   ├── InconsolataGoNerdFont-Regular.ttf
 │   ├── InconsolataGoNerdFontMono-Bold.ttf
 │   ├── InconsolataGoNerdFontMono-Regular.ttf
 │   ├── InconsolataGoNerdFontPropo-Bold.ttf
-│   ├── InconsolataGoNerdFontPropo-Regular.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── InconsolataGoNerdFontPropo-Regular.ttf
 ├── InconsolataLGC
 │   ├── InconsolataLGCNerdFont-Bold.ttf
 │   ├── InconsolataLGCNerdFont-BoldItalic.ttf
@@ -450,9 +398,7 @@
 │   ├── InconsolataLGCNerdFontPropo-Bold.ttf
 │   ├── InconsolataLGCNerdFontPropo-BoldItalic.ttf
 │   ├── InconsolataLGCNerdFontPropo-Italic.ttf
-│   ├── InconsolataLGCNerdFontPropo-Regular.ttf
-│   ├── LICENSE
-│   └── README.md
+│   └── InconsolataLGCNerdFontPropo-Regular.ttf
 ├── IntelOneMono
 │   ├── IntoneMonoNerdFont-Bold.ttf
 │   ├── IntoneMonoNerdFont-BoldItalic.ttf
@@ -477,9 +423,7 @@
 │   ├── IntoneMonoNerdFontPropo-LightItalic.ttf
 │   ├── IntoneMonoNerdFontPropo-Medium.ttf
 │   ├── IntoneMonoNerdFontPropo-MediumItalic.ttf
-│   ├── IntoneMonoNerdFontPropo-Regular.ttf
-│   ├── LICENSE.txt
-│   └── README.md
+│   └── IntoneMonoNerdFontPropo-Regular.ttf
 ├── Iosevka
 │   ├── IosevkaNerdFont-Bold.ttf
 │   ├── IosevkaNerdFont-BoldItalic.ttf
@@ -561,9 +505,7 @@
 │   ├── IosevkaNerdFontPropo-SemiBoldOblique.ttf
 │   ├── IosevkaNerdFontPropo-Thin.ttf
 │   ├── IosevkaNerdFontPropo-ThinItalic.ttf
-│   ├── IosevkaNerdFontPropo-ThinOblique.ttf
-│   ├── LICENSE.md
-│   └── README.md
+│   └── IosevkaNerdFontPropo-ThinOblique.ttf
 ├── IosevkaTerm
 │   ├── IosevkaTermNerdFont-Bold.ttf
 │   ├── IosevkaTermNerdFont-BoldItalic.ttf
@@ -645,9 +587,7 @@
 │   ├── IosevkaTermNerdFontPropo-SemiBoldOblique.ttf
 │   ├── IosevkaTermNerdFontPropo-Thin.ttf
 │   ├── IosevkaTermNerdFontPropo-ThinItalic.ttf
-│   ├── IosevkaTermNerdFontPropo-ThinOblique.ttf
-│   ├── LICENSE.md
-│   └── README.md
+│   └── IosevkaTermNerdFontPropo-ThinOblique.ttf
 ├── IosevkaTermSlab
 │   ├── IosevkaTermSlabNerdFont-Bold.ttf
 │   ├── IosevkaTermSlabNerdFont-BoldItalic.ttf
@@ -693,9 +633,7 @@
 │   ├── IosevkaTermSlabNerdFontPropo-MediumItalic.ttf
 │   ├── IosevkaTermSlabNerdFontPropo-MediumOblique.ttf
 │   ├── IosevkaTermSlabNerdFontPropo-Oblique.ttf
-│   ├── IosevkaTermSlabNerdFontPropo-Regular.ttf
-│   ├── LICENSE.md
-│   └── README.md
+│   └── IosevkaTermSlabNerdFontPropo-Regular.ttf
 ├── JetBrainsMono
 │   ├── JetBrainsMonoNLNerdFont-Bold.ttf
 │   ├── JetBrainsMonoNLNerdFont-BoldItalic.ttf
@@ -792,9 +730,7 @@
 │   ├── JetBrainsMonoNerdFontPropo-SemiBold.ttf
 │   ├── JetBrainsMonoNerdFontPropo-SemiBoldItalic.ttf
 │   ├── JetBrainsMonoNerdFontPropo-Thin.ttf
-│   ├── JetBrainsMonoNerdFontPropo-ThinItalic.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── JetBrainsMonoNerdFontPropo-ThinItalic.ttf
 ├── Lekton
 │   ├── LektonNerdFont-Bold.ttf
 │   ├── LektonNerdFont-Italic.ttf
@@ -804,11 +740,8 @@
 │   ├── LektonNerdFontMono-Regular.ttf
 │   ├── LektonNerdFontPropo-Bold.ttf
 │   ├── LektonNerdFontPropo-Italic.ttf
-│   ├── LektonNerdFontPropo-Regular.ttf
-│   ├── README.md
-│   └── SIL Open Font License.txt
+│   └── LektonNerdFontPropo-Regular.ttf
 ├── LiberationMono
-│   ├── LICENSE
 │   ├── LiterationMonoNerdFont-Bold.ttf
 │   ├── LiterationMonoNerdFont-BoldItalic.ttf
 │   ├── LiterationMonoNerdFont-Italic.ttf
@@ -836,10 +769,8 @@
 │   ├── LiterationSerifNerdFontPropo-Bold.ttf
 │   ├── LiterationSerifNerdFontPropo-BoldItalic.ttf
 │   ├── LiterationSerifNerdFontPropo-Italic.ttf
-│   ├── LiterationSerifNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── LiterationSerifNerdFontPropo-Regular.ttf
 ├── Lilex
-│   ├── LICENSE.txt
 │   ├── LilexNerdFont-Bold.ttf
 │   ├── LilexNerdFont-ExtraLight.ttf
 │   ├── LilexNerdFont-ExtraThick.ttf
@@ -857,8 +788,7 @@
 │   ├── LilexNerdFontPropo-ExtraThick.ttf
 │   ├── LilexNerdFontPropo-Medium.ttf
 │   ├── LilexNerdFontPropo-Regular.ttf
-│   ├── LilexNerdFontPropo-Thin.ttf
-│   └── README.md
+│   └── LilexNerdFontPropo-Thin.ttf
 ├── MPlus
 │   ├── M+1CodeNerdFont-Bold.ttf
 │   ├── M+1CodeNerdFont-ExtraLight.ttf
@@ -958,11 +888,8 @@
 │   ├── M+CodeLat60NerdFontPropo-Medium.ttf
 │   ├── M+CodeLat60NerdFontPropo-Regular.ttf
 │   ├── M+CodeLat60NerdFontPropo-SemiBold.ttf
-│   ├── M+CodeLat60NerdFontPropo-Thin.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── M+CodeLat60NerdFontPropo-Thin.ttf
 ├── MartianMono
-│   ├── LICENSE
 │   ├── MartianMonoNerdFont-Bold.ttf
 │   ├── MartianMonoNerdFont-CondensedBold.ttf
 │   ├── MartianMonoNerdFont-CondensedMedium.ttf
@@ -980,10 +907,8 @@
 │   ├── MartianMonoNerdFontPropo-CondensedMedium.ttf
 │   ├── MartianMonoNerdFontPropo-CondensedRegular.ttf
 │   ├── MartianMonoNerdFontPropo-Medium.ttf
-│   ├── MartianMonoNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── MartianMonoNerdFontPropo-Regular.ttf
 ├── Meslo
-│   ├── LICENSE.txt
 │   ├── MesloLGLDZNerdFont-Bold.ttf
 │   ├── MesloLGLDZNerdFont-BoldItalic.ttf
 │   ├── MesloLGLDZNerdFont-Italic.ttf
@@ -1055,10 +980,8 @@
 │   ├── MesloLGSNerdFontPropo-Bold.ttf
 │   ├── MesloLGSNerdFontPropo-BoldItalic.ttf
 │   ├── MesloLGSNerdFontPropo-Italic.ttf
-│   ├── MesloLGSNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── MesloLGSNerdFontPropo-Regular.ttf
 ├── Monaspace
-│   ├── LICENSE
 │   ├── MonaspiceArNerdFont-Bold.otf
 │   ├── MonaspiceArNerdFont-BoldItalic.otf
 │   ├── MonaspiceArNerdFont-Italic.otf
@@ -1178,10 +1101,8 @@
 │   ├── MonaspiceXeNerdFontPropo-LightItalic.otf
 │   ├── MonaspiceXeNerdFontPropo-Medium.otf
 │   ├── MonaspiceXeNerdFontPropo-MediumItalic.otf
-│   ├── MonaspiceXeNerdFontPropo-Regular.otf
-│   └── README.md
+│   └── MonaspiceXeNerdFontPropo-Regular.otf
 ├── Monofur
-│   ├── LICENSE.txt
 │   ├── MonofurNerdFont-Bold.ttf
 │   ├── MonofurNerdFont-Italic.ttf
 │   ├── MonofurNerdFont-Regular.ttf
@@ -1190,10 +1111,8 @@
 │   ├── MonofurNerdFontMono-Regular.ttf
 │   ├── MonofurNerdFontPropo-Bold.ttf
 │   ├── MonofurNerdFontPropo-Italic.ttf
-│   ├── MonofurNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── MonofurNerdFontPropo-Regular.ttf
 ├── Monoid
-│   ├── LICENSE
 │   ├── MonoidNerdFont-Bold.ttf
 │   ├── MonoidNerdFont-Italic.ttf
 │   ├── MonoidNerdFont-Regular.ttf
@@ -1205,10 +1124,8 @@
 │   ├── MonoidNerdFontPropo-Bold.ttf
 │   ├── MonoidNerdFontPropo-Italic.ttf
 │   ├── MonoidNerdFontPropo-Regular.ttf
-│   ├── MonoidNerdFontPropo-Retina.ttf
-│   └── README.md
+│   └── MonoidNerdFontPropo-Retina.ttf
 ├── Mononoki
-│   ├── LICENSE.txt
 │   ├── MononokiNerdFont-Bold.ttf
 │   ├── MononokiNerdFont-BoldItalic.ttf
 │   ├── MononokiNerdFont-Italic.ttf
@@ -1220,15 +1137,11 @@
 │   ├── MononokiNerdFontPropo-Bold.ttf
 │   ├── MononokiNerdFontPropo-BoldItalic.ttf
 │   ├── MononokiNerdFontPropo-Italic.ttf
-│   ├── MononokiNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── MononokiNerdFontPropo-Regular.ttf
 ├── NerdFontsSymbolsOnly
-│   ├── LICENSE
-│   ├── README.md
 │   ├── SymbolsNerdFont-Regular.ttf
 │   └── SymbolsNerdFontMono-Regular.ttf
 ├── Noto
-│   ├── LICENSE_OFL.txt
 │   ├── NotoMonoNerdFont-Regular.ttf
 │   ├── NotoMonoNerdFontMono-Regular.ttf
 │   ├── NotoMonoNerdFontPropo-Regular.ttf
@@ -1627,11 +1540,8 @@
 │   ├── NotoSerifNerdFontPropo-SemiCondensedThin.ttf
 │   ├── NotoSerifNerdFontPropo-SemiCondensedThinItalic.ttf
 │   ├── NotoSerifNerdFontPropo-Thin.ttf
-│   ├── NotoSerifNerdFontPropo-ThinItalic.ttf
-│   ├── OFL.txt
-│   └── README.md
+│   └── NotoSerifNerdFontPropo-ThinItalic.ttf
 ├── OpenDyslexic
-│   ├── LICENSE.txt
 │   ├── OpenDyslexicAltNerdFont-Bold.otf
 │   ├── OpenDyslexicAltNerdFont-BoldItalic.otf
 │   ├── OpenDyslexicAltNerdFont-Italic.otf
@@ -1650,10 +1560,8 @@
 │   ├── OpenDyslexicNerdFontPropo-Bold.otf
 │   ├── OpenDyslexicNerdFontPropo-BoldItalic.otf
 │   ├── OpenDyslexicNerdFontPropo-Italic.otf
-│   ├── OpenDyslexicNerdFontPropo-Regular.otf
-│   └── README.md
+│   └── OpenDyslexicNerdFontPropo-Regular.otf
 ├── Overpass
-│   ├── LICENSE.md
 │   ├── OverpassMNerdFont-Bold.otf
 │   ├── OverpassMNerdFont-Light.otf
 │   ├── OverpassMNerdFont-Regular.otf
@@ -1697,19 +1605,15 @@
 │   ├── OverpassNerdFontPropo-SemiBold.otf
 │   ├── OverpassNerdFontPropo-SemiBoldItalic.otf
 │   ├── OverpassNerdFontPropo-Thin.otf
-│   ├── OverpassNerdFontPropo-ThinItalic.otf
-│   └── README.md
+│   └── OverpassNerdFontPropo-ThinItalic.otf
 ├── ProFont
-│   ├── LICENSE
 │   ├── ProFontIIxNerdFont-Regular.ttf
 │   ├── ProFontIIxNerdFontMono-Regular.ttf
 │   ├── ProFontIIxNerdFontPropo-Regular.ttf
 │   ├── ProFontWindowsNerdFont-Regular.ttf
 │   ├── ProFontWindowsNerdFontMono-Regular.ttf
-│   ├── ProFontWindowsNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── ProFontWindowsNerdFontPropo-Regular.ttf
 ├── ProggyClean
-│   ├── Licence.txt
 │   ├── ProggyCleanCENerdFont-Regular.ttf
 │   ├── ProggyCleanCENerdFontMono-Regular.ttf
 │   ├── ProggyCleanCENerdFontPropo-Regular.ttf
@@ -1718,12 +1622,9 @@
 │   ├── ProggyCleanNerdFontPropo-Regular.ttf
 │   ├── ProggyCleanSZNerdFont-Regular.ttf
 │   ├── ProggyCleanSZNerdFontMono-Regular.ttf
-│   ├── ProggyCleanSZNerdFontPropo-Regular.ttf
-│   └── README.md
+│   └── ProggyCleanSZNerdFontPropo-Regular.ttf
 ├── README.md
 ├── Recursive
-│   ├── LICENSE.txt
-│   ├── README.md
 │   ├── RecMonoCasualNerdFont-Bold.ttf
 │   ├── RecMonoCasualNerdFont-BoldItalic.ttf
 │   ├── RecMonoCasualNerdFont-Italic.ttf
@@ -1773,8 +1674,6 @@
 │   ├── RecMonoSmCasualNerdFontPropo-Italic.ttf
 │   └── RecMonoSmCasualNerdFontPropo-Regular.ttf
 ├── RobotoMono
-│   ├── LICENSE.txt
-│   ├── README.md
 │   ├── RobotoMonoNerdFont-Bold.ttf
 │   ├── RobotoMonoNerdFont-BoldItalic.ttf
 │   ├── RobotoMonoNerdFont-Italic.ttf
@@ -1812,14 +1711,10 @@
 │   ├── RobotoMonoNerdFontPropo-Thin.ttf
 │   └── RobotoMonoNerdFontPropo-ThinItalic.ttf
 ├── ShareTechMono
-│   ├── OFL.txt
-│   ├── README.md
 │   ├── ShureTechMonoNerdFont-Regular.ttf
 │   ├── ShureTechMonoNerdFontMono-Regular.ttf
 │   └── ShureTechMonoNerdFontPropo-Regular.ttf
 ├── SourceCodePro
-│   ├── LICENSE.txt
-│   ├── README.md
 │   ├── SauceCodeProNerdFont-Black.ttf
 │   ├── SauceCodeProNerdFont-BlackItalic.ttf
 │   ├── SauceCodeProNerdFont-Bold.ttf
@@ -1863,8 +1758,6 @@
 │   ├── SauceCodeProNerdFontPropo-SemiBold.ttf
 │   └── SauceCodeProNerdFontPropo-SemiBoldItalic.ttf
 ├── SpaceMono
-│   ├── OFL.txt
-│   ├── README.md
 │   ├── SpaceMonoNerdFont-Bold.ttf
 │   ├── SpaceMonoNerdFont-BoldItalic.ttf
 │   ├── SpaceMonoNerdFont-Italic.ttf
@@ -1878,8 +1771,6 @@
 │   ├── SpaceMonoNerdFontPropo-Italic.ttf
 │   └── SpaceMonoNerdFontPropo-Regular.ttf
 ├── Terminus
-│   ├── LICENSE.txt
-│   ├── README.md
 │   ├── TerminessNerdFont-Bold.ttf
 │   ├── TerminessNerdFont-BoldItalic.ttf
 │   ├── TerminessNerdFont-Italic.ttf
@@ -1893,8 +1784,6 @@
 │   ├── TerminessNerdFontPropo-Italic.ttf
 │   └── TerminessNerdFontPropo-Regular.ttf
 ├── Tinos
-│   ├── Apache License.txt
-│   ├── README.md
 │   ├── TinosNerdFont-Bold.ttf
 │   ├── TinosNerdFont-BoldItalic.ttf
 │   ├── TinosNerdFont-Italic.ttf
@@ -1904,9 +1793,6 @@
 │   ├── TinosNerdFontPropo-Italic.ttf
 │   └── TinosNerdFontPropo-Regular.ttf
 ├── Ubuntu
-│   ├── LICENCE-FAQ.txt
-│   ├── LICENCE.txt
-│   ├── README.md
 │   ├── UbuntuNerdFont-Bold.ttf
 │   ├── UbuntuNerdFont-BoldItalic.ttf
 │   ├── UbuntuNerdFont-Condensed.ttf
@@ -1926,9 +1812,6 @@
 │   ├── UbuntuNerdFontPropo-MediumItalic.ttf
 │   └── UbuntuNerdFontPropo-Regular.ttf
 ├── UbuntuMono
-│   ├── LICENCE-FAQ.txt
-│   ├── LICENCE.txt
-│   ├── README.md
 │   ├── UbuntuMonoNerdFont-Bold.ttf
 │   ├── UbuntuMonoNerdFont-BoldItalic.ttf
 │   ├── UbuntuMonoNerdFont-Italic.ttf
@@ -1942,8 +1825,6 @@
 │   ├── UbuntuMonoNerdFontPropo-Italic.ttf
 │   └── UbuntuMonoNerdFontPropo-Regular.ttf
 ├── UbuntuSans
-│   ├── LICENCE.txt
-│   ├── README.md
 │   ├── UbuntuSansMonoNerdFont-Bold.ttf
 │   ├── UbuntuSansMonoNerdFont-BoldItalic.ttf
 │   ├── UbuntuSansMonoNerdFont-Italic.ttf
@@ -1985,8 +1866,6 @@
 │   ├── UbuntuSansNerdFontPropo-SemiBold.ttf
 │   └── UbuntuSansNerdFontPropo-SemiBoldItalic.ttf
 ├── VictorMono
-│   ├── LICENSE.txt
-│   ├── README.md
 │   ├── VictorMonoNerdFont-Bold.ttf
 │   ├── VictorMonoNerdFont-BoldItalic.ttf
 │   ├── VictorMonoNerdFont-BoldOblique.ttf
@@ -2051,8 +1930,6 @@
 │   ├── VictorMonoNerdFontPropo-ThinItalic.ttf
 │   └── VictorMonoNerdFontPropo-ThinOblique.ttf
 ├── ZedMono
-│   ├── LICENSE.md
-│   ├── README.md
 │   ├── ZedMonoNerdFont-Bold.ttf
 │   ├── ZedMonoNerdFont-BoldItalic.ttf
 │   ├── ZedMonoNerdFont-BoldOblique.ttf
@@ -2145,8 +2022,6 @@
 │   └── ZedMonoNerdFontPropo-Regular.ttf
 ├── gitFontMap.json
 ├── iA-Writer
-│   ├── LICENSE.md
-│   ├── README.md
 │   ├── iMWritingDuoNerdFont-Bold.ttf
 │   ├── iMWritingDuoNerdFont-BoldItalic.ttf
 │   ├── iMWritingDuoNerdFont-Italic.ttf
@@ -2177,4 +2052,4 @@
 │   └── iMWritingQuatNerdFontPropo-Regular.ttf
 └── out.txt
 
-62 directories, 2115 files
+62 directories, 1990 files
